@@ -15,3 +15,4 @@ you must install the binary drivers using the nvidia_kernel and
 nvidia_driver packages available here at SBo, or you can use the
 binary run installer provided by Nvidia. Once the driver is
 installed, you must install libxnvctrl, also available at SBo.
+Then pass NVIDIA=yes to the build script.
